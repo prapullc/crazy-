@@ -1929,7 +1929,6 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Movies_FindQuery",
               "name": "FindQuery",
               "confirmBeforeExecute": false,
               "pluginType": "DB",

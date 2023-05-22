@@ -367,7 +367,6 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Page1_Api1",
               "name": "Api1",
               "confirmBeforeExecute": false,
               "pluginType": "REMOTE",
@@ -377,7 +376,6 @@
           ],
           [
             {
-              "id": "Page1_stronger",
               "name": "stronger",
               "confirmBeforeExecute": false,
               "pluginType": "API",

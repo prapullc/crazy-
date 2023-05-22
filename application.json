@@ -1,6 +1,10 @@
 {
   "pages": [
     {
+      "id": "Investors",
+      "isDefault": false
+    },
+    {
       "id": "Page1",
       "isDefault": true
     },
@@ -15,13 +19,21 @@
     {
       "id": "Dynamo",
       "isDefault": false
+    },
+    {
+      "id": "S3",
+      "isDefault": false
+    },
+    {
+      "id": "Assets-test.appsmith.com",
+      "isDefault": false
     }
   ],
   "viewMode": false,
   "appIsExample": false,
   "unreadCommentThreads": 0,
-  "color": "#FFDEDE",
-  "icon": "server",
+  "color": "#C7F3E3",
+  "icon": "medical",
   "unpublishedCustomJSLibs": [],
   "publishedCustomJSLibs": [],
   "evaluationVersion": 2,
