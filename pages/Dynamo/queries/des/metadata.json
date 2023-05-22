@@ -2,7 +2,7 @@
   "pluginType": "DB",
   "pluginId": "dynamo-plugin",
   "unpublishedAction": {
-    "name": "listqueryCopy",
+    "name": "des",
     "datasource": {
       "name": "dynamo",
       "pluginId": "dynamo-plugin",
@@ -20,7 +20,7 @@
       "paginationType": "NONE",
       "path": "DescribeTable",
       "encodeParamsToggle": true,
-      "body": "{\n    \"TableName\" : \"eks-terraform-state\"\n}",
+      "body": "{\n    \"TableName\" : \"four\"\n}",
       "selfReferencingDataPaths": []
     },
     "executeOnLoad": false,
@@ -34,7 +34,7 @@
     "policies": [],
     "userPermissions": []
   },
-  "id": "Dynamo_listqueryCopy",
+  "id": "Dynamo_des",
   "deleted": false,
   "gitSyncId": "646b0b1c00cfd23a9b3237db_646b0dba00cfd23a9b323813"
 }

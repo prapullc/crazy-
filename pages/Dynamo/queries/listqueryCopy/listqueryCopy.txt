@@ -1,3 +1,0 @@
-{
-    "TableName" : "eks-terraform-state"
-}
