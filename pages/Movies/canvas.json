@@ -1929,6 +1929,7 @@
         "layoutOnLoadActions": [
           [
             {
+              "id": "Customer Data2_DeleteQuery",
               "name": "FindQuery",
               "confirmBeforeExecute": false,
               "pluginType": "DB",

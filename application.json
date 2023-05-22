@@ -1,6 +1,14 @@
 {
   "pages": [
     {
+      "id": "Customer Data2",
+      "isDefault": false
+    },
+    {
+      "id": "Customer Data",
+      "isDefault": false
+    },
+    {
       "id": "Investors",
       "isDefault": false
     },
@@ -33,7 +41,7 @@
   "appIsExample": false,
   "unreadCommentThreads": 0,
   "color": "#C7F3E3",
-  "icon": "medical",
+  "icon": "book",
   "unpublishedCustomJSLibs": [],
   "publishedCustomJSLibs": [],
   "evaluationVersion": 2,

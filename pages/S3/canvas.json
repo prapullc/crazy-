@@ -201,7 +201,7 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "S3_Query1",
+              "id": "Customer Data2_DeleteQuery",
               "name": "Query1",
               "confirmBeforeExecute": false,
               "pluginType": "DB",

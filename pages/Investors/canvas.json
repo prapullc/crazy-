@@ -2795,7 +2795,7 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Investors_SelectQuery",
+              "id": "Customer Data2_DeleteQuery",
               "name": "SelectQuery",
               "confirmBeforeExecute": false,
               "pluginType": "SAAS",

@@ -2915,7 +2915,6 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Assets-test.appsmith.com_ListFiles",
               "name": "ListFiles",
               "confirmBeforeExecute": false,
               "pluginType": "DB",

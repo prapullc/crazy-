@@ -1947,6 +1947,7 @@
         "layoutOnLoadActions": [
           [
             {
+              "id": "Customer Data2_DeleteQuery",
               "name": "SelectQuery",
               "confirmBeforeExecute": false,
               "pluginType": "DB",

@@ -367,6 +367,7 @@
         "layoutOnLoadActions": [
           [
             {
+              "id": "Customer Data2_DeleteQuery",
               "name": "Api1",
               "confirmBeforeExecute": false,
               "pluginType": "REMOTE",
@@ -376,6 +377,7 @@
           ],
           [
             {
+              "id": "Customer Data2_DeleteQuery",
               "name": "stronger",
               "confirmBeforeExecute": false,
               "pluginType": "API",
