@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 2920,
+          "bottomRow": 3150,
           "containerStyle": "none",
           "snapRows": 124,
           "parentRowSpace": 1,
@@ -310,7 +310,7 @@
                 "label"
               ],
               "topRow": 32,
-              "bottomRow": 292,
+              "bottomRow": 315,
               "parentRowSpace": 10,
               "type": "TEXT_WIDGET",
               "hideCard": false,

@@ -11,6 +11,10 @@
     {
       "id": "Movies",
       "isDefault": false
+    },
+    {
+      "id": "Dynamo",
+      "isDefault": false
     }
   ],
   "viewMode": false,
