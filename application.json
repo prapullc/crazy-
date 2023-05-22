@@ -35,6 +35,10 @@
     {
       "id": "Assets-test.appsmith.com",
       "isDefault": false
+    },
+    {
+      "id": "Page2",
+      "isDefault": false
     }
   ],
   "viewMode": false,
